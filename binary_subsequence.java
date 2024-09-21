@@ -13,7 +13,7 @@ public class binary_subsequence {
                        arr[j] = 0;
                    else
                        arr[j] = 1;
-               }
+                }
            }
            else{
                for(int j=1; j<n; j++){
@@ -29,5 +29,5 @@ public class binary_subsequence {
            }
             System.out.println();
         }
-    }
+    }   
 }
